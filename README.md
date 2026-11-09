@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Sujithra 👋
 
-<!--
-**sujithra28/sujithra28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍🎓 About Me
+I'm a college student interested in Technology and Computer Science.
+Currently learning and building my Digital Portfolio on GitHub.
 
-Here are some ideas to get you started:
+### 🌱 I'm Currently Learning
+- Python
+- Basics of AI & App Development
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Projects
+- Coming Soon... I'm working on my first projects!
+
+### 📫 How to reach me
+- GitHub: @sujithra28
+- Email: sujithrabalaji05@gmail.com
+
+### ✨ Fun Fact
+I'm just starting my coding journey!
